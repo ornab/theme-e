@@ -10,7 +10,6 @@
       
       <?php get_template_part('templates/featured-work'); ?>
       
-      
       <?php get_template_part('templates/maingoal'); ?>
       
       
@@ -26,7 +25,9 @@
          
      <?php get_template_part('templates/contact'); ?>
      
-     <?php get_template_part('templates/footer'); ?>
+    
+     
+       <?php get_template_part('templates/footer'); ?>
       
       
      
